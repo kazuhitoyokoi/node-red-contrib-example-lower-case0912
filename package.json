@@ -1,0 +1,28 @@
+{
+  "name": "node-red-contrib-example-lower-case0912",
+  "version": "0.0.1",
+  "description": "A simple node that converts the message payloads into all lower-case characters",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red" : {
+    "nodes": {
+      "lower-case": "node.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazuhitoyokoi/node-red-contrib-example-lower-case0912.git"
+  },
+  "keywords": [
+    "node-red",
+    "lower-case"
+  ],
+  "author": "kazuhitoyokoi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kazuhitoyokoi/node-red-contrib-example-lower-case0912/issues"
+  },
+  "homepage": "https://github.com/kazuhitoyokoi/node-red-contrib-example-lower-case0912#readme"
+}
